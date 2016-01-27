@@ -1,2 +1,5 @@
-# Dodecachordon-Data-Set
-Collection of Symbolic Music Files
+# Dodecachordon Data Set
+Collection of symbolic music files (.mei, .xml) from Glarean's _Dodecachordon_. The files are organized according to books 1-3, and whether they are:
+- Music Theory Examples
+- Music Literature Examples
+- Music Literature Example Excerpts
