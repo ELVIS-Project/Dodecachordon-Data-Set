@@ -1,3 +1,3 @@
-## Dodecachordon - Book I
+## Dodecachordon - Book III
 
-Contains all musical examples from Book I.
+Contains all musical examples from Book III.
