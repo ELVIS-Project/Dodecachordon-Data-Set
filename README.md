@@ -14,6 +14,6 @@ The files are organized according to books I-III, and whether they are:
     - e.g.: mm. 4-8
 When uploading a file make sure to always upload a file pair (.pdf + .xml):
 - [De_profundis.xml](https://github.com/ELVIS-Project/Dodecachordon-Data-Set/blob/master/Book-III/Literature-Examples/Champion-Jos1511_De-profundis.xml)
-- [De_profundis.pdf](https://github.com/ELVIS-Project/Dodecachordon-Data-Set/blob/master/Book-III/Literature-Examples/Champion-Jos1511_De_profundis.pdf)
+- [De_profundis.pdf](https://github.com/ELVIS-Project/Dodecachordon-Data-Set/blob/master/Book-III/Literature-Examples/Champion-Jos1511_De-profundis.pdf)
 
 
