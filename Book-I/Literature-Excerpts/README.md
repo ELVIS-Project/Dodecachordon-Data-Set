@@ -1,1 +1,1 @@
- 1 ## Dodecachordon - Book I - Literature Excerpts
+## Dodecachordon - Book I - Literature Excerpts
