@@ -11,6 +11,8 @@ The files are organized according to books I-III, and whether they are:
   - full pieces
     - a mass movement is a full piece
     - m. 1 - final cadence
+    - a larger part of a piece
+      - for compositions in two or more parts
 + Music Literature Example Excerpts
   - few measures of a piece
     - e.g.: mm. 4-8
