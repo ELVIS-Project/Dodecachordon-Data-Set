@@ -4,6 +4,7 @@
   - m. 1 - final cadence
   - a larger part of a piece
     + for compositions in two or more parts
+
 ### Naming Conventions
 
 File naming convention:
