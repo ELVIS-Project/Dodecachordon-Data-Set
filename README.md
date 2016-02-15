@@ -39,6 +39,8 @@ or
 or
 - Book-1_Alma-redemptoris-mater-2_pp-57-58.pdf
 
+## Notes
+
 <a name="note-1">[1]</a>: Book 1 is found in Clement Miller's English translation volume 1, ranging from pp. 37 to 103; book 2, also found in volume 1 of Miller's translation, ranges from pp. 103 to 223; and book 3, found in volume 2 of Miller's translation, ranges from pp. 224 to 285. Clement Miller also adds an appendix to volume 2 of his translation that includes the polyphonic music examples ranging from pp. 246 to 548.
 
 
