@@ -46,7 +46,7 @@
   <credit page="1">
     <credit-words default-x="612" default-y="1527.31" justify="center" valign="top" font-size="24">Intonationes psalmorum minorum
 </credit-words>
-    <credit-words>(Dixit Dominus, Credidi)</credit-words>
+    <credit-words>(Magnificat, Benedictus Dominus)</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -570,7 +570,7 @@
         <type>quarter</type>
         <stem>none</stem>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" placement="above" number="1"/>
           </notations>
         <lyric number="1">
           <syllabic>begin</syllabic>
@@ -618,7 +618,7 @@
         <type>quarter</type>
         <stem>none</stem>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" placement="above" number="1"/>
           </notations>
         <lyric number="1">
           <syllabic>begin</syllabic>
@@ -769,7 +769,7 @@
         <type>quarter</type>
         <stem>none</stem>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" placement="above" number="1"/>
           </notations>
         <lyric number="1">
           <syllabic>begin</syllabic>
@@ -818,7 +818,7 @@
         <type>quarter</type>
         <stem>none</stem>
         <notations>
-          <slur type="start" number="1"/>
+          <slur type="start" placement="above" number="1"/>
           </notations>
         <lyric number="1">
           <syllabic>begin</syllabic>
