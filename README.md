@@ -45,7 +45,7 @@ Time Signature and Bars:
 + Make each line of the example one long bar
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
-  - In MuseScore2, you can do this from teh Inspector pane.
+  - In MuseScore2, you can do this from the Inspector pane.
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
