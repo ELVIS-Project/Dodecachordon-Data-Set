@@ -41,7 +41,7 @@ or
 
 ### Conventions for Transcribing Monophonic Examples
 
-Time Signature and Bars:
+#### Time Signature and Bars:
 + Make each line of the example one long bar
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
@@ -49,13 +49,13 @@ Time Signature and Bars:
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
-Clefs:
+#### Clefs:
 + Transcribe the example in the correct octave
   - C clefs indicate middle C
     - Avoid ledger lines by changing clefs
   - F clefs indicate the F below middle C
 
-Ligatures:
+#### Ligatures:
 + Enter ligatures as slurs
 + These slurs should always be placed above the note
   - In MuseScore2, select the slur and then press “x” to flip its orientation
@@ -64,12 +64,12 @@ Ligatures:
   - Group connected notes into one ligature
     - There appear to be some exceptions to this rule but these may be corrected by experts on neumes
 
-Barlines:
+#### Barlines:
 + Enter barlines as breath marks
   - In MuseScore2, you must be on the Advanced Workspace to see the Breaths & Pauses palette
 + Generally, barlines separate complete words, but only indicate a carline where one is indicated in the example
 
-Text:
+#### Text:
 + Include the text
 + Although the examples lack hyphens indicating melismas, transcribers should follow typical formatting conventions for lyrics: hyphens in between syllables of the same word
   - If MuseScore2 fails to show hyphens, change the horizontal offset for individual notes in the Inspector
