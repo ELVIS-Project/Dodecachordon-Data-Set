@@ -44,13 +44,15 @@ or
 Time Signature and Bars:
 + Make each line of the example one long bar
 + Enter the time signature as [number of notes in the line]/4
++ Hide the time signature and bar lines
+  - In MuseScore2, you can do this from teh Inspector pane.
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
 Clefs:
 + Transcribe the example in the correct octave
   - C clefs indicate middle C
-    - If this generates too many ledger lines below the staff, use a treble clef with an “8” on the bottom
+    - Avoid ledger lines by changing clefs
   - F clefs indicate the F below middle C
 
 Ligatures:
