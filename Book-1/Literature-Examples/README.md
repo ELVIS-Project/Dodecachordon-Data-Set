@@ -34,8 +34,9 @@ or
 #### Clefs
 + Transcribe the example in the correct octave
   - C clefs indicate middle C
-    - Avoid ledger lines by changing clefs
   - F clefs indicate the F below middle C
++ If possible, use the same clef as the example (this will help the editors catch mistakes)
++ Avoid use of ledger lines
 
 #### Ligatures
 + Enter ligatures as slurs
