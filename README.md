@@ -39,9 +39,9 @@ or
 or
 - Book-1_Alma-redemptoris-mater-2_pp-57-58.pdf
 
-### Conventions for Transcribing Monophonic Examples
+## Conventions for Transcribing Monophonic Examples
 
-#### Time Signature and Bars
+### Time Signature and Bars
 + Make each line of the example one long bar
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
@@ -49,14 +49,14 @@ or
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
-#### Clefs
+### Clefs
 + Transcribe the example in the correct octave
   - C clefs indicate middle C
   - F clefs indicate the F below middle C
 + If possible, use the same clef as the example (this will help the editors catch mistakes)
 + Avoid use of ledger lines
 
-#### Ligatures
+### Ligatures
 + Enter ligatures as slurs
 + These slurs should always be placed above the note
   - In MuseScore2, select the slur and then press “x” to flip its orientation
@@ -65,12 +65,12 @@ or
   - Group connected notes into one ligature
     - There appear to be some exceptions to this rule but these may be corrected by experts on neumes
 
-#### Barlines
+### Barlines
 + Enter barlines as breath marks
   - In MuseScore2, you must be on the Advanced Workspace to see the Breaths & Pauses palette
 + Generally, barlines separate complete words, but only indicate a carline where one is indicated in the example
 
-#### Text
+### Text
 + Include the text
 + Although the examples lack hyphens indicating melismas, transcribers should follow typical formatting conventions for lyrics: hyphens in between syllables of the same word
   - If MuseScore2 fails to show hyphens, change the horizontal offset for individual notes in the Inspector
@@ -78,9 +78,9 @@ or
 + Rules for text underlay:
   - Syllables do not change during neumes
 
-### Polyphonic Examples
+## Polyphonic Examples
 
-#### Existing Polyphonic Examples
+### Existing Polyphonic Examples
 
 Many of the polyphonic examples already live in the [ELVIS database](http://database.elvisproject.ca) as _.pdf_, or _.xml_ files. Most of the times these examples still need some post editing, for example when only a _Pleni sunt_ from a _Sanctus_ of a mass is needed, the _Pleni sunt_ should be an isolated individual file. When creating this file use the following conventions, so the appropriate meta data is added to the resulting _.xml_ file:
 + Title: _Dodecachordon_
@@ -88,7 +88,7 @@ Many of the polyphonic examples already live in the [ELVIS database](http://data
 + Composer: _Josquin des Prez_
 + Description (or another logical field): _Hypodorian_ (associated mode, if any)
 
-#### Non-Existing Polyphonic Examples
+### Non-Existing Polyphonic Examples
 
 When creating a polyphonic example from the Miller book use the same conventions as described above under _Existing Polyphonic Examples_. 
 
