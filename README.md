@@ -78,6 +78,20 @@ or
 + Rules for text underlay:
   - Syllables do not change during neumes
 
+### Polyphonic Examples
+
+#### Existing Polyphonic Examples
+
+Many of the polyphonic examples already live in the [ELVIS database](http://database.elvisproject.ca) as _.pdf_, or _.xml_ files. Most of the times these examples still need some post editing, for example when only a _Pleni sunt_ from a _Sanctus_ of a mass is needed, the _Pleni sunt_ should be an isolated individual file. When creating this file use the following conventions, so the appropriate meta data is added to the resulting _.xml_ file:
++ Title: _Dodecachordon_
++ Subtitle: _Mass - Sanctus - Pleni sunt_ (for example)
++ Composer: _Josquin des Prez_
++ Description (or another logical field): _Hypodorian_ (associated mode, if any)
+
+#### Non-Existing Polyphonic Examples
+
+When creating a polyphonic example from the Miller book use the same conventions as described above under _Existing Polyphonic Examples_. 
+
 ## Notes
 
 <a name="note-1">[1]</a>: Book 1 is found in Clement Miller's English translation volume 1, ranging from pp. 37 to 103; book 2, also found in volume 1 of Miller's translation, ranges from pp. 103 to 223; and book 3, found in volume 2 of Miller's translation, ranges from pp. 224 to 285. Clement Miller also adds an appendix to volume 2 of his translation that includes the polyphonic music examples ranging from pp. 246 to 548.
