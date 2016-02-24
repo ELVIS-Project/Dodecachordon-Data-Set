@@ -16,41 +16,43 @@ or
 or
 - Book-1_Alma-redemptoris-mater-2_pp-57-58.pdf
 
-### Conventions for Transcribing Monophonic Examples
+## Monophonic Examples
 
-#### Time Signature and Bars
+### Time Signature and Bars
 + Make each line of the example one long bar
+  - The location of line breaks may be important, so do not attempt to save space by grouping lines together.
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
   - In MuseScore2, you can do this from the Inspector pane.
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
-#### Clefs
-+ Transcribe the example in the correct octave
-  - C clefs indicate middle C
-  - F clefs indicate the F below middle C
-+ If possible, use the same clef as the example (this will help the editors catch mistakes)
-+ Avoid use of ledger lines
+### Clefs
++ Employ the exact same clefs as the example, if possible
+  - Since the staffs only have 4 lines, ignore the uppermost line of the modern 5-line staff
+    - E.g., A baritone clef (a C clef on the uppermost line) in Glarean will become a tenor clef in your example
 
-#### Ligatures
+### Ligatures
 + Enter ligatures as slurs
 + These slurs should always be placed above the note
   - In MuseScore2, select the slur and then press “x” to flip its orientation
 + Rules of thumb about ligatures:
-  - A note with a tail followed by diamond notes is one ligature
-  - Group connected notes into one ligature
-    - There appear to be some exceptions to this rule but these may be corrected by experts on neumes
+  - For ligatures with one note on top of the other, the bottom note comes first.
+  - Group noteheads that are connected into one ligature 
+  - A note with a tail followed by diamond notes is also one ligature
+    - Exception: When there are repeated pitches
 
-#### Barlines
+### Barlines
 + Enter barlines as breath marks
   - In MuseScore2, you must be on the Advanced Workspace to see the Breaths & Pauses palette
-+ Generally, barlines separate complete words, but only indicate a carline where one is indicated in the example
++ Enter double barlines as double breath marks
+  - If there are double barlines at the end of each line, it is possible that the example should be broken up--Check with Julie to verify
++ Generally, barlines separate complete words, but only indicate a barline where one is indicated in the example
 
-#### Text
+### Text
 + Include the text
 + Although the examples lack hyphens indicating melismas, transcribers should follow typical formatting conventions for lyrics: hyphens in between syllables of the same word
-  - If MuseScore2 fails to show hyphens, change the horizontal offset for individual notes in the Inspector
+  - If MuseScore2 fails to show hyphens, select the note and press the left arrow key until a hyphen appears
 + Reproduce the spelling, punctuation, and capitalization of the example, even if there are errors or inconsistencies
 + Rules for text underlay:
   - Syllables do not change during neumes
