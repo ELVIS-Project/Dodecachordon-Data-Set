@@ -39,10 +39,12 @@ or
 or
 - Book-1_Alma-redemptoris-mater-2_pp-57-58.pdf
 
-## Conventions for Transcribing Monophonic Examples
+## Monophonic Examples
 
 ### Time Signature and Bars
 + Make each line of the example one long bar
+ 
+
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
   - In MuseScore2, you can do this from the Inspector pane.
@@ -50,20 +52,18 @@ or
   - In MuseScore2, you can select this option in the Inspector pane.
 
 ### Clefs
-+ Transcribe the example in the correct octave
-  - C clefs indicate middle C
-  - F clefs indicate the F below middle C
-+ If possible, use the same clef as the example (this will help the editors catch mistakes)
-+ Avoid use of ledger lines
++ Employ the same clefs as the example, if possible
+  - Since the staffs only have 4 lines, ignore the uppermost line of the modern 5-line staff
+    - E.g., A baritone clef (a C clef on the uppermost line) in Glarean will become a tenor clef in your example
 
 ### Ligatures
 + Enter ligatures as slurs
 + These slurs should always be placed above the note
   - In MuseScore2, select the slur and then press “x” to flip its orientation
 + Rules of thumb about ligatures:
-  - A note with a tail followed by diamond notes is one ligature
   - Group connected notes into one ligature
-    - There appear to be some exceptions to this rule but these may be corrected by experts on neumes
+  - A note with a tail followed by diamond notes is also one ligature
+    - Exception: When there are repeated notes
 
 ### Barlines
 + Enter barlines as breath marks
