@@ -18,19 +18,27 @@ or
 
 ## Monophonic Examples
 
-### Time Signature and Bars
+### Time Signatures and Bars
 + Make each line of the example one long bar
-  - The location of line breaks may be important, so do not attempt to save space by grouping lines together.
+  - Exception: If there is a key signature change in the middle of a line, divide the line into two bars (one cannot change key sigature during a bar in MuseScore 2) and make the barline invisible
+  - The location of line breaks may be important, so do not attempt to save space by grouping lines together
 + Enter the time signature as [number of notes in the line]/4
 + Hide the time signature and bar lines
   - In MuseScore2, you can do this from the Inspector pane.
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
 
+### Key Signatures
++ Put no key signature (the "X" option in MuseScore 2)
+  - Exception: If the excerpt has a key signature at the beginning of the line (e.g., a B-flat), put a key signature.
++ If the key signature changes during a line, divide the line into two bars and make the barline invisible
+
 ### Clefs
 + Employ the exact same clefs as the example, if possible
   - Since the staffs only have 4 lines, ignore the uppermost line of the modern 5-line staff
     - E.g., A baritone clef (a C clef on the uppermost line) in Glarean will become a tenor clef in your example
+  - If the clef changes in the middle of the line, change clefs in your example exactly where the clef changes in Glarean.
+    - To change clefs in the middle of a bar in MuseScore 2, drag the clef onto the first note of the new clef (it should turn blue).
 
 ### Ligatures
 + Enter ligatures as slurs
