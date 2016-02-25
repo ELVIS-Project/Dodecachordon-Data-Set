@@ -27,6 +27,7 @@ or
   - In MuseScore2, you can do this from the Inspector pane.
 + Enter each note as a stemless quarter note
   - In MuseScore2, you can select this option in the Inspector pane.
++ Make all bar numbers invisible
 
 ### Key Signatures
 + Put no key signature (the "X" option in MuseScore 2)
