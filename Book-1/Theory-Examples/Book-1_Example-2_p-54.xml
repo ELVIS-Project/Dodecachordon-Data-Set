@@ -88,6 +88,11 @@
           <line>3</line>
           </clef>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>G</words>
+          </direction-type>
+        </direction>
       <note default-x="86.50" default-y="-30.00">
         <pitch>
           <step>D</step>
@@ -243,6 +248,11 @@
           <fifths>-1</fifths>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>G</words>
+          </direction-type>
+        </direction>
       <note default-x="31.60" default-y="-30.00">
         <pitch>
           <step>D</step>
@@ -508,6 +518,11 @@
           <mode>none</mode>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>a</words>
+          </direction-type>
+        </direction>
       <note default-x="54.65" default-y="-35.00">
         <pitch>
           <step>C</step>
@@ -679,6 +694,11 @@
           <fifths>-1</fifths>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>a</words>
+          </direction-type>
+        </direction>
       <note default-x="31.60" default-y="-30.00">
         <pitch>
           <step>D</step>
@@ -917,6 +937,11 @@
           <mode>none</mode>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>d</words>
+          </direction-type>
+        </direction>
       <note default-x="56.10" default-y="-30.00">
         <pitch>
           <step>A</step>
@@ -1072,6 +1097,11 @@
           <fifths>-1</fifths>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>d</words>
+          </direction-type>
+        </direction>
       <note default-x="31.60" default-y="-30.00">
         <pitch>
           <step>A</step>
@@ -1280,6 +1310,11 @@
           <mode>none</mode>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>e</words>
+          </direction-type>
+        </direction>
       <note default-x="56.10" default-y="-35.00">
         <pitch>
           <step>G</step>
@@ -1461,6 +1496,11 @@
           <fifths>-1</fifths>
           </key>
         </attributes>
+      <direction placement="below">
+        <direction-type>
+          <words>e</words>
+          </direction-type>
+        </direction>
       <note default-x="31.60" default-y="-40.00">
         <pitch>
           <step>F</step>
