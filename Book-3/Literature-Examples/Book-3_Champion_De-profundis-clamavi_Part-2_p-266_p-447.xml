@@ -8,11 +8,9 @@
   <movement-number>2</movement-number>
   <movement-title>A custodia matutina</movement-title>
   <identification>
-    <creator type="arranger">Phrygian</creator>
+    <creator type="arranger">Henricus Glareanus</creator>
     <creator type="composer">Nicolas Champion</creator>
     <creator type="lyricist">Psalm 130</creator>
-    <creator type="translator">Glareanus</creator>
-    <rights>Dodecachordon</rights>
     <encoding>
       <software>MuseScore 2.0.2</software>
       <encoding-date>2016-03-17</encoding-date>
@@ -42,6 +40,15 @@
     <word-font font-family="Times New Roman" font-size="7.9"/>
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
+  <credit page="1">
+    <credit-words default-x="772.5" default-y="1982" justify="center" valign="top">A custodia matutina</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-words default-x="772.5" default-y="1910.42" justify="center" valign="top">2</credit-words>
+    </credit>
+  <credit page="1">
+    <credit-words default-x="1409" default-y="1882" justify="right" valign="bottom">Nicolas Champion</credit-words>
+    </credit>
   <part-list>
     <score-part id="P1">
       <part-name>Superius</part-name>
@@ -104,7 +111,7 @@
             <left-margin>62.91</left-margin>
             <right-margin>-0.00</right-margin>
             </system-margins>
-          <top-system-distance>70.00</top-system-distance>
+          <top-system-distance>170.00</top-system-distance>
           </system-layout>
         </print>
       <attributes>
