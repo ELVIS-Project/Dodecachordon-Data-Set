@@ -1,0 +1,728 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://music-encoding.org/schema/2.1.1/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://music-encoding.org/schema/2.1.1/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="2013">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <title />
+            </titleStmt>
+            <pubStmt>
+                <date>2016-04-04 12:50:23</date>
+            </pubStmt>
+        </fileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Encoded with Verovio version 0.9.11-dev-5282c03-dirty</p>
+            </projectDesc>
+        </encodingDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv>
+                <score>
+                    <section>
+                        <scoreDef xml:id="scoredef-000000003078945">
+                            <staffGrp xml:id="m-000000015125678">
+                                <staffDef xml:id="staffdef-000000109095217" clef.shape="C" clef.line="3" key.sig="1f" meter.count="63" meter.unit="4" n="1" label="Piano" lines="5" />
+                            </staffGrp>
+                        </scoreDef>
+                        <measure xml:id="measure-000000109496945" n="1">
+                            <staff xml:id="staff-000000101994739" n="1">
+                                <layer xml:id="layer-000000185082478" n="1">
+                                    <note xml:id="note-000000128126838" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000184413234" n="1">
+                                            <syl xml:id="syl-000000052836421" con="d" wordpos="i">Al</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000173458042" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000142010450" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000117601949" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000128260163" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000209892229" dur="4" oct="4" pname="e" />
+                                    <note xml:id="note-000000198131286" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000162285440" dur="4" oct="4" pname="e" />
+                                    <note xml:id="note-000000211704397" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000020176609" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000040051343" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000060183500" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000168169382" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000031142307" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000001392400" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000111639938" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000062140911" n="1">
+                                            <syl xml:id="syl-000000048063589" wordpos="t">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000147689433" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000179255964" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000191566099" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000019789089" n="1">
+                                            <syl xml:id="syl-000000058589796" con="d" wordpos="i">Re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000208094736" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000155738008" n="1">
+                                            <syl xml:id="syl-000000192109339">dem</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000126101603" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000032485024" n="1">
+                                            <syl xml:id="syl-000000100761726">pto</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000116411494" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000017284814" n="1">
+                                            <syl xml:id="syl-000000151426732" wordpos="t">ris</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000043912659" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000175869839" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000059207257" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000068131849" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000149134161" n="1">
+                                            <syl xml:id="syl-000000135322966" con="d" wordpos="i">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000174172794" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000041222168" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000119831446" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000184478713" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000207821835" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000169345196" n="1">
+                                            <syl xml:id="syl-000000139988832" wordpos="t">ter,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000062634521" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000011030338" n="1">
+                                            <syl xml:id="syl-000000008039195">quae</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000020689277" dur="4" oct="4" pname="e">
+                                        <verse xml:id="verse-000000164338363" n="1">
+                                            <syl xml:id="syl-000000131976331" con="d" wordpos="i">per</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000078258292" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000199462037" dur="4" oct="4" pname="d">
+                                        <verse xml:id="verse-000000056834228" n="1">
+                                            <syl xml:id="syl-000000206410425">vi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000198130727" dur="4" oct="4" pname="c" />
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000205511373" startid="note-000000128126838" endid="note-000000117601949" />
+                            <slur xml:id="slur-000000208038359" startid="note-000000128260163" endid="note-000000040051343" />
+                            <slur xml:id="slur-000000031008453" startid="note-000000060183500" endid="note-000000031142307" />
+                            <slur xml:id="slur-000000023981936" startid="note-000000111639938" endid="note-000000179255964" />
+                            <slur xml:id="slur-000000092739095" startid="note-000000116411494" endid="note-000000059207257" curvedir="above" />
+                            <slur xml:id="slur-000000179226397" startid="note-000000068131849" endid="note-000000041222168" curvedir="above" />
+                            <slur xml:id="slur-000000152293028" startid="note-000000119831446" endid="note-000000184478713" />
+                            <slur xml:id="slur-000000202739700" startid="note-000000020689277" endid="note-000000078258292" />
+                            <slur xml:id="slur-000000034784649" startid="note-000000199462037" endid="note-000000198130727" />
+                        </measure>
+                        <measure xml:id="measure-000000199350723" n="2">
+                            <staff xml:id="staff-000000106385818" n="1">
+                                <layer xml:id="layer-000000014590271" n="1">
+                                    <note xml:id="note-000000079328599" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000046065588" n="1">
+                                            <syl xml:id="syl-000000150586209" wordpos="t">a</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000103823774" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000199714272" n="1">
+                                            <syl xml:id="syl-000000156627548" con="d" wordpos="i">coe</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000112543070" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000176309069" n="1">
+                                            <syl xml:id="syl-000000053486756" wordpos="t">li</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000150189924" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000040333907" n="1">
+                                            <syl xml:id="syl-000000109213546" con="d" wordpos="i">Por</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000027727105" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000102442196" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000001181898" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000184088238" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000037538167" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000082226559" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000208472322" n="1">
+                                            <syl xml:id="syl-000000152814985" wordpos="t">ta</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000104527571" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000128933275" n="1">
+                                            <syl xml:id="syl-000000163074105" con="d" wordpos="i">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000027277881" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000164750933" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000185050057" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000144703517" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000105809069" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000166079199" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000105017399" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000044139472" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000055057554" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000213321902" n="1">
+                                            <syl xml:id="syl-000000132621934" wordpos="t">nens,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000114053055" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000197710106" n="1">
+                                            <syl xml:id="syl-000000124870924">et</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000004878412" dur="4" oct="4" pname="e">
+                                        <verse xml:id="verse-000000008472848" n="1">
+                                            <syl xml:id="syl-000000070073237" con="d" wordpos="i">stel</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000189251500" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000191509471" dur="4" oct="4" pname="e" />
+                                    <note xml:id="note-000000154728114" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000162645338" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000089426735" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000068034429" n="1">
+                                            <syl xml:id="syl-000000066780613" wordpos="t">la</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000135879461" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000032919969" n="1">
+                                            <syl xml:id="syl-000000076874826" con="d" wordpos="i">ma</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000190046760" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000080379640" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000194970473" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000175765095" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000124516149" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000206017354" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000069098849" n="1">
+                                            <syl xml:id="syl-000000095939473" wordpos="t">ris,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000001328624" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000206321760" n="1">
+                                            <syl xml:id="syl-000000082802598" con="d" wordpos="i">suc</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000063584901" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000194469103" n="1">
+                                            <syl xml:id="syl-000000005526678">cur</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000047834323" dur="4" oct="3" pname="b" />
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000185028803" startid="note-000000150189924" endid="note-000000037538167" curvedir="above" />
+                            <slur xml:id="slur-000000068446215" startid="note-000000104527571" endid="note-000000164750933" />
+                            <slur xml:id="slur-000000124938890" startid="note-000000185050057" endid="note-000000105809069" curvedir="above" />
+                            <slur xml:id="slur-000000060527345" startid="note-000000166079199" endid="note-000000044139472" curvedir="above" />
+                            <slur xml:id="slur-000000075238025" startid="note-000000004878412" endid="note-000000162645338" />
+                            <slur xml:id="slur-000000114357080" startid="note-000000135879461" endid="note-000000124516149" />
+                            <slur xml:id="slur-000000051918997" startid="note-000000063584901" endid="note-000000047834323" />
+                        </measure>
+                        <measure xml:id="measure-000000037544445" n="3">
+                            <staff xml:id="staff-000000011258096" n="1">
+                                <layer xml:id="layer-000000151906680" n="1">
+                                    <note xml:id="note-000000096269334" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000042061535" n="1">
+                                            <syl xml:id="syl-000000194427763" wordpos="t">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000121151395" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000210487962" n="1">
+                                            <syl xml:id="syl-000000020830703" con="d" wordpos="i">ca</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000151867902" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000209484208" n="1">
+                                            <syl xml:id="syl-000000203303682">den</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000182892059" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000013738873" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000175903275" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000194847507" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000175444582" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000001629833" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000072764270" n="1">
+                                            <syl xml:id="syl-000000148586554" wordpos="t">ti,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000041723400" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000048827431" n="1">
+                                            <syl xml:id="syl-000000194725992" con="d" wordpos="i">Sur</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000149745663" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000031815377" n="1">
+                                            <syl xml:id="syl-000000196939481">ge</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000182210790" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000113490996" n="1">
+                                            <syl xml:id="syl-000000050908475" wordpos="t">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000129386170" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000157207536" n="1">
+                                            <syl xml:id="syl-000000202266620">qui</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000155430904" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000037664623" n="1">
+                                            <syl xml:id="syl-000000098561336" con="d" wordpos="i">cu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000056411519" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000150059892" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000179425454" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000133220003" n="1">
+                                            <syl xml:id="syl-000000212378499" wordpos="t">rat,</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000086459284" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000088466696" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000193555465" n="1">
+                                            <syl xml:id="syl-000000153231765" con="d" wordpos="i">Po</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000145819432" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000023425367" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000093361385" n="1">
+                                            <syl xml:id="syl-000000023743843">pu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000136534268" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000022429596" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000069454509" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000069163505" n="1">
+                                            <syl xml:id="syl-000000091615743" wordpos="t">lo.</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000130914088" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000057970441" n="1">
+                                            <syl xml:id="syl-000000109491800">Tu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000010697047" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000053452455" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000012024499" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000155447675" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000031143840" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000065248560" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000091307063" n="1">
+                                            <syl xml:id="syl-000000080735344">quae</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000200957556" startid="note-000000151867902" endid="note-000000175903275" curvedir="above" />
+                            <slur xml:id="slur-000000049779351" startid="note-000000194847507" endid="note-000000175444582" />
+                            <slur xml:id="slur-000000003499623" startid="note-000000155430904" endid="note-000000150059892" />
+                            <slur xml:id="slur-000000044919263" startid="note-000000179425454" endid="note-000000086459284" curvedir="above" />
+                            <slur xml:id="slur-000000128366597" startid="note-000000088466696" endid="note-000000145819432" curvedir="above" />
+                            <slur xml:id="slur-000000072960903" startid="note-000000023425367" endid="note-000000022429596" curvedir="above" />
+                            <slur xml:id="slur-000000013308889" startid="note-000000010697047" endid="note-000000031143840" />
+                        </measure>
+                        <measure xml:id="measure-000000202174890" n="4">
+                            <staff xml:id="staff-000000012063213" n="1">
+                                <layer xml:id="layer-000000160235191" n="1">
+                                    <note xml:id="note-000000173126236" dur="4" oct="4" pname="e">
+                                        <verse xml:id="verse-000000004277064" n="1">
+                                            <syl xml:id="syl-000000162547688" con="d" wordpos="i">ge</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000160976835" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000214656829" n="1">
+                                            <syl xml:id="syl-000000097036996">nu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000078822329" dur="4" oct="4" pname="g" />
+                                    <note xml:id="note-000000125983387" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000129853440" n="1">
+                                            <syl xml:id="syl-000000128684526">is</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000107149804" dur="4" oct="4" pname="e" />
+                                    <note xml:id="note-000000128713192" dur="4" oct="4" pname="d">
+                                        <verse xml:id="verse-000000037445780" n="1">
+                                            <syl xml:id="syl-000000183838412" wordpos="t">ti</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000203080215" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000097513462" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000164829367" n="1">
+                                            <syl xml:id="syl-000000144811441" con="d" wordpos="i">Na</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000172485887" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000026683405" dur="4" oct="4" pname="d">
+                                        <verse xml:id="verse-000000152880866" n="1">
+                                            <syl xml:id="syl-000000001781314">tu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000021711586" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000178413483" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000111820001" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000009922683" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000127874169" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000115000642" n="1">
+                                            <syl xml:id="syl-000000092098117" wordpos="t">ra</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000016037364" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000088844269" n="1">
+                                            <syl xml:id="syl-000000108410488" con="d" wordpos="i">mi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000128406161" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000167911917" n="1">
+                                            <syl xml:id="syl-000000141036313">ran</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000082950179" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000195331376" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000087119755" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000161148402" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000141212215" n="1">
+                                            <syl xml:id="syl-000000066666970" wordpos="t">te</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000144841904" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000076859805" n="1">
+                                            <syl xml:id="syl-000000194194701" con="d" wordpos="i">tu</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000163784814" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000137116426" n="1">
+                                            <syl xml:id="syl-000000174664111" wordpos="t">um</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000090441853" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000033530465" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000064339616" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000139142949" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000197369684" n="1">
+                                            <syl xml:id="syl-000000093653171" con="d" wordpos="i">sanc</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000097758806" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000160856464" n="1">
+                                            <syl xml:id="syl-000000171587702" wordpos="t">tum</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000118308635" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000090143612" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000069589338" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000213120756" n="1">
+                                            <syl xml:id="syl-000000140857358" con="d" wordpos="i">Ge</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000179662805" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000141593971" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000102563873" n="1">
+                                            <syl xml:id="syl-000000051137058">ni</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000046527552" dur="4" oct="3" pname="f" />
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000109427261" startid="note-000000160976835" endid="note-000000078822329" />
+                            <slur xml:id="slur-000000142164649" startid="note-000000125983387" endid="note-000000107149804" />
+                            <slur xml:id="slur-000000098000694" startid="note-000000128713192" endid="note-000000203080215" />
+                            <slur xml:id="slur-000000054493941" startid="note-000000097513462" endid="note-000000172485887" />
+                            <slur xml:id="slur-000000111932629" startid="note-000000026683405" endid="note-000000009922683" />
+                            <slur xml:id="slur-000000162727909" startid="note-000000128406161" endid="note-000000087119755" curvedir="above" />
+                            <slur xml:id="slur-000000050086141" startid="note-000000163784814" endid="note-000000064339616" curvedir="above" />
+                            <slur xml:id="slur-000000013081661" startid="note-000000097758806" endid="note-000000090143612" curvedir="above" />
+                            <slur xml:id="slur-000000080172943" startid="note-000000069589338" endid="note-000000179662805" curvedir="above" />
+                            <slur xml:id="slur-000000164337787" startid="note-000000141593971" endid="note-000000046527552" curvedir="above" />
+                        </measure>
+                        <measure xml:id="measure-000000099937198" n="5">
+                            <staff xml:id="staff-000000157137954" n="1">
+                                <layer xml:id="layer-000000140967526" n="1">
+                                    <note xml:id="note-000000071560667" dur="4" oct="3" pname="d">
+                                        <verse xml:id="verse-000000041282835" n="1">
+                                            <syl xml:id="syl-000000198435953">to</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000051781585" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000139015144" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000084544702" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000163239462" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000111316718" n="1">
+                                            <syl xml:id="syl-000000087951499" wordpos="t">rem.</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000034426827" dur="4" oct="4" pname="f">
+                                        <verse xml:id="verse-000000158616755" n="1">
+                                            <syl xml:id="syl-000000028113965" con="d" wordpos="i">Vir</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000137944877" dur="4" oct="4" pname="e" />
+                                    <note xml:id="note-000000184828049" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000181588020" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000003765033" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000167121716" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000184847414" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000118267088" n="1">
+                                            <syl xml:id="syl-000000069300716" wordpos="t">go</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000151055111" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000102625974" n="1">
+                                            <syl xml:id="syl-000000025606815" con="d" wordpos="i">pri</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000001954653" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000158717436" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000145462740" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000010307459" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000096061661" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000131895559" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000039448236" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000210600318" n="1">
+                                            <syl xml:id="syl-000000155209059" wordpos="t">us</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000094140271" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000206650913" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000060575265" n="1">
+                                            <syl xml:id="syl-000000091122258">ac</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000059824287" dur="4" oct="4" pname="e">
+                                        <verse xml:id="verse-000000169188011" n="1">
+                                            <syl xml:id="syl-000000131582239" con="d" wordpos="i">pos</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000062513539" dur="4" oct="4" pname="f" />
+                                    <note xml:id="note-000000077154937" dur="4" oct="4" pname="d">
+                                        <verse xml:id="verse-000000018295004" n="1">
+                                            <syl xml:id="syl-000000033746106">te</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000069458798" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000032644984" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000119441283" n="1">
+                                            <syl xml:id="syl-000000179860479">ri</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000081872483" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000145708714" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000214116314" n="1">
+                                            <syl xml:id="syl-000000028743135" wordpos="t">us</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000001549377" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000172359807" n="1">
+                                            <syl xml:id="syl-000000173153207" con="d" wordpos="i">Ga</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000039012407" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000176957309" n="1">
+                                            <syl xml:id="syl-000000152900912">bri</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000209036702" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000064354511" n="1">
+                                            <syl xml:id="syl-000000159199724">e</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000214055570" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000151110674" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000121620887" n="1">
+                                            <syl xml:id="syl-000000084286220" wordpos="t">lis</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000102040000" startid="note-000000071560667" endid="note-000000084544702" />
+                            <slur xml:id="slur-000000018214624" startid="note-000000034426827" endid="note-000000184828049" />
+                            <slur xml:id="slur-000000044550233" startid="note-000000181588020" endid="note-000000167121716" />
+                            <slur xml:id="slur-000000207704248" startid="note-000000151055111" endid="note-000000145462740" />
+                            <slur xml:id="slur-000000142584978" startid="note-000000010307459" endid="note-000000131895559" curvedir="above" />
+                            <slur xml:id="slur-000000210045997" startid="note-000000039448236" endid="note-000000094140271" curvedir="above" />
+                            <slur xml:id="slur-000000048165251" startid="note-000000059824287" endid="note-000000062513539" />
+                            <slur xml:id="slur-000000156062286" startid="note-000000077154937" endid="note-000000069458798" />
+                            <slur xml:id="slur-000000050508130" startid="note-000000032644984" endid="note-000000081872483" />
+                            <slur xml:id="slur-000000127727614" startid="note-000000209036702" endid="note-000000214055570" />
+                        </measure>
+                        <measure xml:id="measure-000000080371967" n="6">
+                            <staff xml:id="staff-000000167774878" n="1">
+                                <layer xml:id="layer-000000129941255" n="1">
+                                    <note xml:id="note-000000036265446" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000185078638" n="1">
+                                            <syl xml:id="syl-000000082812428">ab</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000007190876" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000052416413" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000130139143" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000017245088" n="1">
+                                            <syl xml:id="syl-000000160036762" con="d" wordpos="i">o</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000022434587" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000103056121" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000096104343" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000148554687" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000127888225" n="1">
+                                            <syl xml:id="syl-000000158139921" wordpos="t">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000142859484" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000166003863" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000082405829" n="1">
+                                            <syl xml:id="syl-000000123788656" con="d" wordpos="i">Su</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000002955021" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000030400583" n="1">
+                                            <syl xml:id="syl-000000011215855" wordpos="t">mens</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000032899613" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000035767864" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000000329525" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000031745243" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000069740359" n="1">
+                                            <syl xml:id="syl-000000103039951" con="d" wordpos="i">il</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000192988569" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000101104410" n="1">
+                                            <syl xml:id="syl-000000165071022" wordpos="t">lud</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000078352407" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000017698335" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000162186153" n="1">
+                                            <syl xml:id="syl-000000076568708" con="d" wordpos="i">A</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000209804614" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000116001497" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000154671230" dur="4" oct="3" pname="b" />
+                                    <note xml:id="note-000000059290337" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000070839716" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000128488888" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000112142865" n="1">
+                                            <syl xml:id="syl-000000022380336" wordpos="t">ve</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000095639285" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000100851401" n="1">
+                                            <syl xml:id="syl-000000032811377" con="d" wordpos="i">pec</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000000962620" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000033630078" n="1">
+                                            <syl xml:id="syl-000000189782883">ca</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000038062033" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000136336188" n="1">
+                                            <syl xml:id="syl-000000043001006">to</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000186945803" dur="4" oct="4" pname="d" />
+                                    <note xml:id="note-000000117722370" dur="4" oct="4" pname="c" />
+                                    <note xml:id="note-000000134245687" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000210382378" n="1">
+                                            <syl xml:id="syl-000000090603296" wordpos="t">rum</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000196055806" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000133199907" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000039935206" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000213650759" dur="4" oct="3" pname="a" />
+                                    <note xml:id="note-000000023608009" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000209960773" n="1">
+                                            <syl xml:id="syl-000000104781610" con="d" wordpos="i">mi</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000084170281" dur="4" oct="3" pname="a" />
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000185744603" startid="note-000000036265446" endid="note-000000052416413" />
+                            <slur xml:id="slur-000000103432671" startid="note-000000130139143" endid="note-000000096104343" />
+                            <slur xml:id="slur-000000167445300" startid="note-000000148554687" endid="note-000000142859484" curvedir="above" />
+                            <slur xml:id="slur-000000041028310" startid="note-000000002955021" endid="note-000000000329525" curvedir="above" />
+                            <slur xml:id="slur-000000063973938" startid="note-000000192988569" endid="note-000000078352407" curvedir="above" />
+                            <slur xml:id="slur-000000111994749" startid="note-000000017698335" endid="note-000000070839716" curvedir="above" />
+                            <slur xml:id="slur-000000186088496" startid="note-000000038062033" endid="note-000000117722370" />
+                            <slur xml:id="slur-000000072513907" startid="note-000000134245687" endid="note-000000213650759" curvedir="above" />
+                            <slur xml:id="slur-000000103557576" startid="note-000000023608009" endid="note-000000084170281" />
+                        </measure>
+                        <measure xml:id="measure-000000066811988" n="7" right="end">
+                            <staff xml:id="staff-000000176869952" n="1">
+                                <layer xml:id="layer-000000167112459" n="1">
+                                    <note xml:id="note-000000037679394" dur="4" oct="3" pname="g">
+                                        <verse xml:id="verse-000000136054505" n="1">
+                                            <syl xml:id="syl-000000022876604">se</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000023284343" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000142277410" dur="4" oct="3" pname="d">
+                                        <verse xml:id="verse-000000031639414" n="1">
+                                            <syl xml:id="syl-000000100931075">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000014470964" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000103225856" dur="4" oct="3" pname="g" />
+                                    <note xml:id="note-000000168851569" dur="4" oct="3" pname="f" />
+                                    <note xml:id="note-000000067065173" dur="4" oct="3" pname="f">
+                                        <verse xml:id="verse-000000074377304" n="1">
+                                            <syl xml:id="syl-000000100270256" wordpos="t">re</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000152772315" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000116393750" n="1">
+                                            <syl xml:id="syl-000000153198140">E</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000010796923" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000116995862" n="1">
+                                            <syl xml:id="syl-000000039352316">u</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000035645602" dur="4" oct="4" pname="d">
+                                        <verse xml:id="verse-000000037547097" n="1">
+                                            <syl xml:id="syl-000000113714854">o</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000185500131" dur="4" oct="3" pname="b">
+                                        <verse xml:id="verse-000000130783579" n="1">
+                                            <syl xml:id="syl-000000183324699">u</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000032101086" dur="4" oct="4" pname="c">
+                                        <verse xml:id="verse-000000065545887" n="1">
+                                            <syl xml:id="syl-000000173706137">a</syl>
+                                        </verse>
+                                    </note>
+                                    <note xml:id="note-000000164421504" dur="4" oct="3" pname="a">
+                                        <verse xml:id="verse-000000197513912" n="1">
+                                            <syl xml:id="syl-000000194295883">e.</syl>
+                                        </verse>
+                                    </note>
+                                </layer>
+                            </staff>
+                            <slur xml:id="slur-000000082601841" startid="note-000000037679394" endid="note-000000023284343" curvedir="above" />
+                            <slur xml:id="slur-000000203345494" startid="note-000000142277410" endid="note-000000168851569" curvedir="above" />
+                        </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
