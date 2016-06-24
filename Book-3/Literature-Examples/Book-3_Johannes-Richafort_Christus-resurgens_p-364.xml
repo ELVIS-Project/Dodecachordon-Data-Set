@@ -5,6 +5,7 @@
     <work-title>Book-3_Johannes-Richafort_Christus-resurgens_p-364</work-title>
     </work>
   <identification>
+    <creator type="arranger">Ionian</creator>
     <creator type="composer">Johannes Richafort</creator>
     <encoding>
       <software>MuseScore 2.0.2</software>
@@ -41,7 +42,7 @@
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="595.44" default-y="1583.36" justify="center" valign="top" font-size="24">Book-3_Johannes-Richafort_Christus-resurgens_p-364</credit-words>
+    <credit-words default-x="595.44" default-y="1583.36" justify="center" valign="top" font-size="24">Christus resurgens</credit-words>
     </credit>
   <credit page="1">
     <credit-words default-x="1134.19" default-y="1483.36" justify="right" valign="bottom" font-size="12">Johannes Richafort</credit-words>
@@ -110,7 +111,7 @@
         <system-layout>
           <system-margins>
             <left-margin>18.84</left-margin>
-            <right-margin>-19784.06</right-margin>
+            <right-margin>-19798.11</right-margin>
             </system-margins>
           <top-system-distance>43.31</top-system-distance>
           </system-layout>
@@ -3567,7 +3568,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="84" width="189.93">
+    <measure number="84" width="203.97">
       <note default-x="16.18" default-y="-35.00">
         <pitch>
           <step>F</step>
@@ -3582,7 +3583,7 @@
           <text>o</text>
           </lyric>
         </note>
-      <note default-x="66.81" default-y="-30.00">
+      <note default-x="70.94" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -3596,7 +3597,7 @@
           <text>nem</text>
           </lyric>
         </note>
-      <note default-x="106.96" default-y="-25.00">
+      <note default-x="114.39" default-y="-25.00">
         <pitch>
           <step>A</step>
           <octave>4</octave>
@@ -8121,7 +8122,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="84" width="189.93">
+    <measure number="84" width="203.97">
       <note default-x="15.82" default-y="-165.00">
         <pitch>
           <step>D</step>
@@ -8136,7 +8137,7 @@
           <text>no</text>
           </lyric>
         </note>
-      <note default-x="106.96" default-y="-160.00">
+      <note default-x="114.39" default-y="-160.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -12213,7 +12214,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="84" width="189.93">
+    <measure number="84" width="203.97">
       <note default-x="16.18" default-y="-240.00">
         <pitch>
           <step>F</step>
@@ -12229,7 +12230,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="41.50" default-y="-245.00">
+      <note default-x="43.56" default-y="-245.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -12240,7 +12241,7 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="66.45" default-y="-250.00">
+      <note default-x="70.58" default-y="-250.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -12250,14 +12251,16 @@
         <type>half</type>
         <stem>down</stem>
         </note>
-      <note default-x="147.82" default-y="-255.00">
+      <note default-x="158.56" default-y="-255.00">
         <pitch>
           <step>C</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>quarter</type>
+        <accidental parentheses="yes">sharp</accidental>
         <stem>down</stem>
         </note>
       </measure>
@@ -15965,7 +15968,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="84" width="189.93">
+    <measure number="84" width="203.97">
       <note default-x="15.82" default-y="-355.00">
         <pitch>
           <step>B</step>
@@ -15981,7 +15984,7 @@
           <text>o</text>
           </lyric>
         </note>
-      <note default-x="106.96" default-y="-360.00">
+      <note default-x="114.39" default-y="-360.00">
         <pitch>
           <step>A</step>
           <octave>3</octave>
