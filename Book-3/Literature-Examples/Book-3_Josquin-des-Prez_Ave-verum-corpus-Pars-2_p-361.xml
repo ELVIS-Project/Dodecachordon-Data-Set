@@ -5,6 +5,7 @@
     <work-title>Book-3_Josquin-des-Prez_Ave-verum-corpus-Pars-2_p-361</work-title>
     </work>
   <identification>
+    <creator type="arranger">Ionian</creator>
     <creator type="composer">Josquin des Prez</creator>
     <encoding>
       <software>MuseScore 2.0.2</software>
