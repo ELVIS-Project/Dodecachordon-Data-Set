@@ -5,10 +5,11 @@
     <work-title>Salvum me fac Domine</work-title>
     </work>
   <identification>
+    <creator type="arranger">Hypophrygian</creator>
     <creator type="composer">Anonymous</creator>
     <encoding>
       <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-06-02</encoding-date>
+      <encoding-date>2016-06-15</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -41,10 +42,10 @@
     <lyric-font font-family="FreeSerif" font-size="11"/>
     </defaults>
   <credit page="1">
-    <credit-words default-x="595.44" default-y="1583.36" justify="center" valign="top" font-size="24">Salvum me fac Domine</credit-words>
+    <credit-words default-x="1134.19" default-y="1433.36" justify="right" valign="bottom" font-size="12">Anonymous</credit-words>
     </credit>
   <credit page="1">
-    <credit-words default-x="1134.19" default-y="1483.36" justify="right" valign="bottom" font-size="12">Anonymous</credit-words>
+    <credit-words default-x="595.44" default-y="1583.36" justify="center" valign="top" font-size="24">Salvum me fac Domine</credit-words>
     </credit>
   <part-list>
     <score-part id="P1">
@@ -95,8 +96,8 @@
       <print>
         <system-layout>
           <system-margins>
-            <left-margin>18.84</left-margin>
-            <right-margin>-6701.26</right-margin>
+            <left-margin>7.87</left-margin>
+            <right-margin>-6803.75</right-margin>
             </system-margins>
           <top-system-distance>43.31</top-system-distance>
           </system-layout>
@@ -366,7 +367,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="11" width="92.87">
+    <measure number="11" width="129.69">
       <note default-x="16.31" default-y="-25.00">
         <pitch>
           <step>A</step>
@@ -381,14 +382,16 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="53.61" default-y="-30.00">
+      <note default-x="72.02" default-y="-30.00">
         <pitch>
           <step>G</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
+        <accidental parentheses="yes">sharp</accidental>
         <stem>up</stem>
         </note>
       </measure>
@@ -809,7 +812,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="26" width="92.87">
+    <measure number="26" width="132.69">
       <note default-x="14.96" default-y="-45.00">
         <pitch>
           <step>D</step>
@@ -824,14 +827,16 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="52.93" default-y="-50.00">
+      <note default-x="72.84" default-y="-50.00">
         <pitch>
           <step>C</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
+        <accidental parentheses="yes">sharp</accidental>
         <stem>up</stem>
         </note>
       </measure>
@@ -1262,7 +1267,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="43" width="123.82">
+    <measure number="43" width="160.64">
       <note default-x="25.73" default-y="-30.00">
         <pitch>
           <step>G</step>
@@ -1277,7 +1282,7 @@
           <tied type="stop"/>
           </notations>
         </note>
-      <note default-x="52.53" default-y="-40.00">
+      <note default-x="61.40" default-y="-40.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -1287,14 +1292,16 @@
         <type>quarter</type>
         <stem>up</stem>
         </note>
-      <note default-x="78.98" default-y="-35.00">
+      <note default-x="101.61" default-y="-35.00">
         <pitch>
           <step>F</step>
+          <alter>1</alter>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
         <voice>1</voice>
         <type>half</type>
+        <accidental parentheses="yes">sharp</accidental>
         <stem>up</stem>
         </note>
       </measure>
@@ -2064,7 +2071,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="11" width="92.87">
+    <measure number="11" width="129.69">
       <note default-x="13.35" default-y="-140.00">
         <pitch>
           <step>B</step>
@@ -2440,7 +2447,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="26" width="92.87">
+    <measure number="26" width="132.69">
       <note default-x="12.00" default-y="-160.00">
         <pitch>
           <step>E</step>
@@ -2846,7 +2853,7 @@
         <stem>up</stem>
         </note>
       </measure>
-    <measure number="43" width="123.82">
+    <measure number="43" width="160.64">
       <note default-x="22.41" default-y="-145.00">
         <pitch>
           <step>A</step>
@@ -3576,7 +3583,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="11" width="92.87">
+    <measure number="11" width="129.69">
       <note default-x="13.35" default-y="-255.00">
         <pitch>
           <step>E</step>
@@ -3942,7 +3949,7 @@
         <stem>down</stem>
         </note>
       </measure>
-    <measure number="26" width="92.87">
+    <measure number="26" width="132.69">
       <note default-x="12.00" default-y="-275.00">
         <pitch>
           <step>A</step>
@@ -4369,7 +4376,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="43" width="123.82">
+    <measure number="43" width="160.64">
       <note default-x="22.41" default-y="-260.00">
         <pitch>
           <step>D</step>
