@@ -12,7 +12,7 @@ The following example shows what should be included in the meta data of the musi
   <movement-number>1</movement-number>
   <movement-title>Prelude</movement-title>
   <identification>
-    <creator type="arranger">Henricus Montibus</creator>
+    <creator type="arranger">Ionian</creator>
     <creator type="composer">Jakobus Piscatoris</creator>
     <creator type="lyricist">Willibald von der Wolfensteingrube</creator>
     <creator type="translator">Maximilian Ehrhardt</creator>
