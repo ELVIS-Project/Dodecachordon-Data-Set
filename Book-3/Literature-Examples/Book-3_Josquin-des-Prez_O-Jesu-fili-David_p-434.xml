@@ -9,7 +9,7 @@
     <creator type="composer">Josquin des Prez</creator>
     <encoding>
       <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-08-04</encoding-date>
+      <encoding-date>2016-08-10</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -111,7 +111,7 @@
         <system-layout>
           <system-margins>
             <left-margin>18.84</left-margin>
-            <right-margin>-8857.94</right-margin>
+            <right-margin>-8857.93</right-margin>
             </system-margins>
           <top-system-distance>43.31</top-system-distance>
           </system-layout>
@@ -588,7 +588,7 @@
         <stem>down</stem>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>á</text>
+          <text>à</text>
           </lyric>
         </note>
       </measure>
@@ -1218,7 +1218,7 @@
         </note>
       </measure>
     <measure number="46" width="181.27">
-      <note default-x="22.78" default-y="-5.00">
+      <note default-x="22.77" default-y="-5.00">
         <pitch>
           <step>E</step>
           <octave>5</octave>
@@ -1463,7 +1463,7 @@
         </note>
       </measure>
     <measure number="53" width="195.52">
-      <note default-x="23.78" default-y="-30.00">
+      <note default-x="23.77" default-y="-30.00">
         <pitch>
           <step>G</step>
           <octave>4</octave>
@@ -2775,7 +2775,7 @@
         <stem>up</stem>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>á</text>
+          <text>à</text>
           </lyric>
         </note>
       <note default-x="141.91" default-y="-140.00">
@@ -3487,7 +3487,7 @@
           <text>dunt</text>
           </lyric>
         </note>
-      <note default-x="57.78" default-y="-130.00">
+      <note default-x="57.77" default-y="-130.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -4929,7 +4929,7 @@
         <stem>down</stem>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>á</text>
+          <text>à</text>
           </lyric>
         </note>
       </measure>
@@ -5517,7 +5517,7 @@
         </note>
       </measure>
     <measure number="46" width="181.27">
-      <note default-x="22.78" default-y="-245.00">
+      <note default-x="22.77" default-y="-245.00">
         <pitch>
           <step>E</step>
           <octave>4</octave>
@@ -6887,7 +6887,7 @@
         <stem>up</stem>
         <lyric number="1">
           <syllabic>single</syllabic>
-          <text>á</text>
+          <text>à</text>
           </lyric>
         </note>
       <note default-x="107.53" default-y="-405.00">
@@ -7590,7 +7590,7 @@
         </note>
       </measure>
     <measure number="46" width="181.27">
-      <note default-x="22.78" default-y="-410.00">
+      <note default-x="22.77" default-y="-410.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
