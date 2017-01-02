@@ -1180,11 +1180,6 @@
           <beat-type>2</beat-type>
           </time>
         </attributes>
-      <direction placement="above">
-        <direction-type>
-          <words>C</words>
-          </direction-type>
-        </direction>
       <note default-x="39.81" default-y="-150.00">
         <pitch>
           <step>D</step>
