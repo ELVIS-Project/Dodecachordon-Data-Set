@@ -2,21 +2,24 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>Dodecachordon, Book 2</work-number>
     <work-title>Pater noster</work-title>
     </work>
+  <movement-number>p. 105: p. 143-144</movement-number>
+  <movement-title>Pater noster</movement-title>
   <identification>
-    <creator type="arranger">Aeolian</creator>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="poet">Aeolian</creator>
     <encoding>
-      <software>MuseScore 2.0.3</software>
-      <encoding-date>2016-04-19</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-01-18</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Dodecachordon</source>
     </identification>
   <defaults>
     <scaling>
@@ -90,7 +93,7 @@
           <line>4</line>
           </clef>
         </attributes>
-      <note default-x="94.99" default-y="-35.00">
+      <note default-x="64.24" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -104,7 +107,7 @@
           <text>Per</text>
           </lyric>
         </note>
-      <note default-x="126.62" default-y="-25.00">
+      <note default-x="95.87" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -118,7 +121,7 @@
           <text>om</text>
           </lyric>
         </note>
-      <note default-x="153.08" default-y="-20.00">
+      <note default-x="123.93" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -132,7 +135,7 @@
           <text>ni</text>
           </lyric>
         </note>
-      <note default-x="179.55" default-y="-20.00">
+      <note default-x="151.98" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -146,7 +149,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="206.01" default-y="-15.00">
+      <note default-x="180.04" default-y="-15.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -160,7 +163,7 @@
           <text>se</text>
           </lyric>
         </note>
-      <note default-x="232.48" default-y="-20.00">
+      <note default-x="208.10" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -174,7 +177,7 @@
           <text>cu</text>
           </lyric>
         </note>
-      <note default-x="258.94" default-y="-20.00">
+      <note default-x="236.16" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -188,7 +191,7 @@
           <text>la</text>
           </lyric>
         </note>
-      <note default-x="285.41" default-y="-25.00">
+      <note default-x="264.22" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -202,7 +205,7 @@
           <text>se</text>
           </lyric>
         </note>
-      <note default-x="311.87" default-y="-20.00">
+      <note default-x="292.28" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -216,7 +219,7 @@
           <text>cu</text>
           </lyric>
         </note>
-      <note default-x="338.34" default-y="-20.00">
+      <note default-x="320.34" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -233,7 +236,7 @@
           <text>lo</text>
           </lyric>
         </note>
-      <note default-x="364.80" default-y="-25.00">
+      <note default-x="348.40" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -246,7 +249,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="392.72" default-y="-25.00">
+      <note default-x="376.46" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -265,7 +268,7 @@
           <text>rum.</text>
           </lyric>
         </note>
-      <note default-x="438.06" default-y="-25.00">
+      <note default-x="421.79" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -279,7 +282,7 @@
           <text>A</text>
           </lyric>
         </note>
-      <note default-x="468.47" default-y="-20.00">
+      <note default-x="452.21" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -298,7 +301,7 @@
           <text>men,</text>
           </lyric>
         </note>
-      <note default-x="514.94" default-y="-20.00">
+      <note default-x="498.67" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -312,7 +315,7 @@
           <text>O</text>
           </lyric>
         </note>
-      <note default-x="541.40" default-y="-25.00">
+      <note default-x="526.73" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -329,7 +332,7 @@
           <text>rem</text>
           </lyric>
         </note>
-      <note default-x="576.55" default-y="-20.00">
+      <note default-x="561.88" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -342,7 +345,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="603.01" default-y="-20.00">
+      <note default-x="589.94" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -361,7 +364,7 @@
           <text>us.</text>
           </lyric>
         </note>
-      <note default-x="667.79" default-y="-35.00">
+      <note default-x="656.31" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -375,7 +378,7 @@
           <text>Prae</text>
           </lyric>
         </note>
-      <note default-x="695.53" default-y="-25.00">
+      <note default-x="684.37" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -389,7 +392,7 @@
           <text>cep</text>
           </lyric>
         </note>
-      <note default-x="723.63" default-y="-20.00">
+      <note default-x="712.47" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -403,7 +406,7 @@
           <text>tis</text>
           </lyric>
         </note>
-      <note default-x="750.10" default-y="-20.00">
+      <note default-x="740.53" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -417,7 +420,7 @@
           <text>sa</text>
           </lyric>
         </note>
-      <note default-x="776.56" default-y="-20.00">
+      <note default-x="768.59" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -431,7 +434,7 @@
           <text>lu</text>
           </lyric>
         </note>
-      <note default-x="803.03" default-y="-20.00">
+      <note default-x="796.65" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -445,7 +448,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="829.49" default-y="-20.00">
+      <note default-x="824.71" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -459,7 +462,7 @@
           <text>ri</text>
           </lyric>
         </note>
-      <note default-x="855.95" default-y="-20.00">
+      <note default-x="852.77" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -473,7 +476,7 @@
           <text>bus</text>
           </lyric>
         </note>
-      <note default-x="887.50" default-y="-20.00">
+      <note default-x="884.31" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -487,7 +490,7 @@
           <text>mo</text>
           </lyric>
         </note>
-      <note default-x="913.96" default-y="-25.00">
+      <note default-x="912.37" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2096,7 +2099,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="6" width="942.03">
+    <measure number="6" width="624.26">
       <note default-x="61.52" default-y="-20.00">
         <pitch>
           <step>D</step>
@@ -2111,7 +2114,7 @@
           <text>ten</text>
           </lyric>
         </note>
-      <note default-x="106.67" default-y="-25.00">
+      <note default-x="88.30" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2125,7 +2128,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="151.83" default-y="-20.00">
+      <note default-x="115.08" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2139,7 +2142,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="196.99" default-y="-20.00">
+      <note default-x="141.87" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2156,7 +2159,7 @@
           <text>on</text>
           </lyric>
         </note>
-      <note default-x="242.14" default-y="-25.00">
+      <note default-x="168.65" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2169,7 +2172,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="287.30" default-y="-25.00">
+      <note default-x="197.67" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2188,7 +2191,7 @@
           <text>nem,</text>
           </lyric>
         </note>
-      <note default-x="357.15" default-y="-25.00">
+      <note default-x="252.41" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2202,7 +2205,7 @@
           <text>Sed</text>
           </lyric>
         </note>
-      <note default-x="402.31" default-y="-20.00">
+      <note default-x="279.20" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2216,7 +2219,7 @@
           <text>li</text>
           </lyric>
         </note>
-      <note default-x="447.47" default-y="-20.00">
+      <note default-x="305.98" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2230,7 +2233,7 @@
           <text>be</text>
           </lyric>
         </note>
-      <note default-x="492.62" default-y="-20.00">
+      <note default-x="332.77" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2244,7 +2247,7 @@
           <text>ra</text>
           </lyric>
         </note>
-      <note default-x="537.78" default-y="-25.00">
+      <note default-x="359.55" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2258,7 +2261,7 @@
           <text>nos</text>
           </lyric>
         </note>
-      <note default-x="582.94" default-y="-20.00">
+      <note default-x="386.33" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2272,7 +2275,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="628.10" default-y="-15.00">
+      <note default-x="413.12" default-y="-15.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -2289,7 +2292,7 @@
           <text>ma</text>
           </lyric>
         </note>
-      <note default-x="673.25" default-y="-20.00">
+      <note default-x="440.46" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -2302,7 +2305,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="718.41" default-y="-25.00">
+      <note default-x="467.25" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -2319,7 +2322,7 @@
           <text>lo.</text>
           </lyric>
         </note>
-      <note default-x="763.57" default-y="-35.00">
+      <note default-x="494.03" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -2335,7 +2338,7 @@
             </articulations>
           </notations>
         </note>
-      <note default-x="825.11" default-y="-35.00">
+      <note default-x="537.21" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -2349,7 +2352,7 @@
           <text>A</text>
           </lyric>
         </note>
-      <note default-x="870.27" default-y="-35.00">
+      <note default-x="567.62" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -2367,6 +2370,13 @@
           <syllabic>end</syllabic>
           <text>men.</text>
           </lyric>
+        </note>
+      </measure>
+    <measure number="7" width="317.77">
+      <note print-object="no">
+        <rest/>
+        <duration>63</duration>
+        <voice>1</voice>
         </note>
       </measure>
     </part>
