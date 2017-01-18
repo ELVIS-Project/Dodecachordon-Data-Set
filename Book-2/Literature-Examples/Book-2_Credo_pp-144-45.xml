@@ -2,21 +2,24 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>Dodecachordon, Book 2</work-number>
     <work-title>Credo</work-title>
     </work>
+  <movement-number>p. 106: p. 144-145</movement-number>
+  <movement-title>Credo</movement-title>
   <identification>
-    <creator type="arranger">aeolian</creator>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="poet">Aeolian</creator>
     <encoding>
-      <software>MuseScore 2.0.3</software>
-      <encoding-date>2016-04-18</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-01-18</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Dodecachordon</source>
     </identification>
   <defaults>
     <scaling>
@@ -6033,7 +6036,7 @@
         <duration>9</duration>
         </backup>
       </measure>
-    <measure number="14" width="333.59">
+    <measure number="14" width="295.87">
       <note default-x="56.67" default-y="-15.00">
         <pitch>
           <step>E</step>
@@ -6051,7 +6054,7 @@
           <text>A</text>
           </lyric>
         </note>
-      <note default-x="83.63" default-y="-20.00">
+      <note default-x="78.24" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6061,7 +6064,7 @@
         <type>quarter</type>
         <stem>none</stem>
         </note>
-      <note default-x="110.60" default-y="-25.00">
+      <note default-x="99.82" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -6071,7 +6074,7 @@
         <type>quarter</type>
         <stem>none</stem>
         </note>
-      <note default-x="137.56" default-y="-20.00">
+      <note default-x="121.40" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6081,7 +6084,7 @@
         <type>quarter</type>
         <stem>none</stem>
         </note>
-      <note default-x="164.53" default-y="-15.00">
+      <note default-x="142.97" default-y="-15.00">
         <pitch>
           <step>E</step>
           <octave>3</octave>
@@ -6091,7 +6094,7 @@
         <type>quarter</type>
         <stem>none</stem>
         </note>
-      <note default-x="191.49" default-y="-20.00">
+      <note default-x="164.55" default-y="-20.00">
         <pitch>
           <step>D</step>
           <octave>3</octave>
@@ -6101,7 +6104,7 @@
         <type>quarter</type>
         <stem>none</stem>
         </note>
-      <note default-x="218.46" default-y="-25.00">
+      <note default-x="186.13" default-y="-25.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
@@ -6114,7 +6117,7 @@
           <slur type="stop" number="1"/>
           </notations>
         </note>
-      <note default-x="247.48" default-y="-30.00">
+      <note default-x="215.15" default-y="-30.00">
         <pitch>
           <step>B</step>
           <octave>2</octave>
@@ -6131,7 +6134,7 @@
           <text>men.</text>
           </lyric>
         </note>
-      <note default-x="280.03" default-y="-35.00">
+      <note default-x="247.69" default-y="-35.00">
         <pitch>
           <step>A</step>
           <octave>2</octave>
@@ -6148,7 +6151,7 @@
           </notations>
         </note>
       </measure>
-    <measure number="15" width="608.44">
+    <measure number="15" width="646.16">
       <note print-object="no">
         <rest/>
         <duration>63</duration>
