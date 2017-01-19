@@ -2,21 +2,24 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
-    <work-title>Ave Maria ... Benedicta tu</work-title>
+    <work-number>Dodecachordon, Book 1</work-number>
+    <work-title>Ave Maria ... benedicta tu</work-title>
     </work>
+  <movement-number>p. 106: p. 147</movement-number>
+  <movement-title>Ave Maria ... benedicta tu</movement-title>
   <identification>
-    <creator type="arranger">Aeolian</creator>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="poet">Aeolian</creator>
     <encoding>
-      <software>MuseScore 2.0.3</software>
-      <encoding-date>2016-04-24</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-01-19</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
       <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
-    <source>Dodecachordon</source>
     </identification>
   <defaults>
     <scaling>
