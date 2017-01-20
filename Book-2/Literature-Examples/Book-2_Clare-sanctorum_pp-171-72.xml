@@ -2,17 +2,22 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
-    <work-title>Alma Redemptoris Mater</work-title>
+    <work-number>Dodedcachordon, Book 2</work-number>
+    <work-title>Clare sanctorum</work-title>
     </work>
+  <movement-number>p. 135-136: p. 171-172</movement-number>
+  <movement-title>Clare sanctorum</movement-title>
   <identification>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="poet">Mixolydian</creator>
     <encoding>
-      <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-02-25</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-01-20</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
     </identification>
@@ -356,15 +361,6 @@
         </note>
       </measure>
     <measure number="2" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="68.24" default-y="-35.00">
         <pitch>
           <step>G</step>
@@ -668,15 +664,6 @@
         </note>
       </measure>
     <measure number="3" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="59.17" default-y="-35.00">
         <pitch>
           <step>G</step>
@@ -1083,15 +1070,6 @@
         </note>
       </measure>
     <measure number="4" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="60.72" default-y="-15.00">
         <pitch>
           <step>D</step>
@@ -1512,15 +1490,6 @@
         </note>
       </measure>
     <measure number="5" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="56.10" default-y="-10.00">
         <pitch>
           <step>E</step>
@@ -1866,15 +1835,6 @@
         </note>
       </measure>
     <measure number="6" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="69.19" default-y="-30.00">
         <pitch>
           <step>A</step>
@@ -2162,15 +2122,6 @@
         </note>
       </measure>
     <measure number="7" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="58.38" default-y="-35.00">
         <pitch>
           <step>G</step>
@@ -2472,15 +2423,6 @@
         </note>
       </measure>
     <measure number="8" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="56.10" default-y="-30.00">
         <pitch>
           <step>A</step>
@@ -2768,15 +2710,6 @@
         </note>
       </measure>
     <measure number="9" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>97.37</system-distance>
-          </system-layout>
-        </print>
       <note default-x="63.47" default-y="-25.00">
         <pitch>
           <step>B</step>
@@ -3073,15 +3006,6 @@
         </note>
       </measure>
     <measure number="10" width="1110.61">
-      <print new-page="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <top-system-distance>70.00</top-system-distance>
-          </system-layout>
-        </print>
       <note default-x="58.05" default-y="-25.00">
         <pitch>
           <step>B</step>
@@ -3369,15 +3293,6 @@
         </note>
       </measure>
     <measure number="11" width="632.84">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>477.78</right-margin>
-            </system-margins>
-          <system-distance>150.00</system-distance>
-          </system-layout>
-        </print>
       <note default-x="59.88" default-y="-20.00">
         <pitch>
           <step>C</step>
