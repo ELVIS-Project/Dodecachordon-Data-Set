@@ -6,14 +6,15 @@
     <work-title>Benedicta semper sancta</work-title>
     </work>
   <movement-number>p. 151: p. 185</movement-number>
-  <movement-title>Benedicta semper sancta</movement-title>
+  <movement-title>Benedicta semper sancta sit trinitas</movement-title>
   <identification>
     <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="lyricist">Prosa in Festo S. Trinitatis</creator>
     <creator type="poet">Mixolydian/Hypomixolydian</creator>
     <encoding>
       <software>MuseScore 2.0.3.1</software>
-      <encoding-date>2017-01-20</encoding-date>
+      <encoding-date>2017-01-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>

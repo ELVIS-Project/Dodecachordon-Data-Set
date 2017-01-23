@@ -10,10 +10,11 @@
   <identification>
     <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="lyricist">Prosa de S. Apostolis</creator>
     <creator type="poet">Mixolydian</creator>
     <encoding>
       <software>MuseScore 2.0.3.1</software>
-      <encoding-date>2017-01-20</encoding-date>
+      <encoding-date>2017-01-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="no"/>
