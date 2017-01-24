@@ -2,17 +2,23 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>Dodecachordon, Book 1</work-number>
     <work-title>Alma Redemptoris Mater</work-title>
     </work>
+  <movement-number>p. 17: p. 57-58</movement-number>
+  <movement-title>Alma redemptoris mater</movement-title>
   <identification>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Anonymous</creator>
+    <creator type="lyricist">LU 273</creator>
+    <creator type="poet">Ionian</creator>
     <encoding>
-      <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-02-24</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-01-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
-      <supports element="print" attribute="new-page" type="yes" value="yes"/>
-      <supports element="print" attribute="new-system" type="yes" value="yes"/>
+      <supports element="print" attribute="new-page" type="no"/>
+      <supports element="print" attribute="new-system" type="no"/>
       <supports element="stem" type="yes"/>
       </encoding>
     </identification>
@@ -567,15 +573,6 @@
         </note>
       </measure>
     <measure number="2" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="65.20" default-y="-25.00">
         <pitch>
           <step>B</step>
@@ -1077,15 +1074,6 @@
         </note>
       </measure>
     <measure number="3" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="67.28" default-y="-25.00">
         <pitch>
           <step>B</step>
@@ -1537,15 +1525,6 @@
         </note>
       </measure>
     <measure number="4" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="68.62" default-y="-10.00">
         <pitch>
           <step>E</step>
@@ -2036,15 +2015,6 @@
         </note>
       </measure>
     <measure number="5" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="67.20" default-y="-50.00">
         <pitch>
           <step>D</step>
@@ -2535,15 +2505,6 @@
         </note>
       </measure>
     <measure number="6" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="68.90" default-y="-30.00">
         <pitch>
           <step>A</step>
@@ -3037,15 +2998,6 @@
         </note>
       </measure>
     <measure number="7" width="1110.61">
-      <print new-system="yes">
-        <system-layout>
-          <system-margins>
-            <left-margin>0.00</left-margin>
-            <right-margin>0.00</right-margin>
-            </system-margins>
-          <system-distance>143.15</system-distance>
-          </system-layout>
-        </print>
       <note default-x="67.20" default-y="-35.00">
         <pitch>
           <step>G</step>
