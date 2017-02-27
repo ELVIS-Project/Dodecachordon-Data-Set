@@ -2,14 +2,18 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>Dodecachordon, Book 3</work-number>
     <work-title>Et in terra pax from Missa de nostra Domina</work-title>
     </work>
+  <movement-number>p. 392 : p. 474</movement-number>
+  <movement-title>Et in terra pax from Missa de nostra Domina</movement-title>
   <identification>
-    <creator type="arranger">Connection of the Mixolydian and the Hypomixolydian</creator>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Josquin des Prez</creator>
+    <creator type="poet">Connection of the Mixolydian and the Hypomixolydian</creator>
     <encoding>
-      <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-08-19</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-02-14</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>

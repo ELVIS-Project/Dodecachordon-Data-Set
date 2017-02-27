@@ -2,14 +2,18 @@
 <!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 3.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
 <score-partwise>
   <work>
+    <work-number>Dodecachordon, Book 3</work-number>
     <work-title>De profundis</work-title>
     </work>
+  <movement-number>p. 372 : p. 447</movement-number>
+  <movement-title>De profundis</movement-title>
   <identification>
-    <creator type="arranger">From Dorian to Phrygian</creator>
+    <creator type="arranger">Glarean</creator>
     <creator type="composer">Nicolas Champion (listed as Josquin des Prez)</creator>
+    <creator type="poet">From Dorian to Phrygian</creator>
     <encoding>
-      <software>MuseScore 2.0.2</software>
-      <encoding-date>2016-08-11</encoding-date>
+      <software>MuseScore 2.0.3.1</software>
+      <encoding-date>2017-02-14</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -111,7 +115,7 @@
         <system-layout>
           <system-margins>
             <left-margin>18.84</left-margin>
-            <right-margin>-25853.57</right-margin>
+            <right-margin>-25853.56</right-margin>
             </system-margins>
           <top-system-distance>43.31</top-system-distance>
           </system-layout>
@@ -879,7 +883,7 @@
           <text>me</text>
           </lyric>
         </note>
-      <note default-x="146.93" default-y="-45.00">
+      <note default-x="146.92" default-y="-45.00">
         <pitch>
           <step>D</step>
           <octave>4</octave>
@@ -9863,7 +9867,7 @@
         </note>
       </measure>
     <measure number="162" width="207.81">
-      <note default-x="23.78" default-y="-140.00">
+      <note default-x="23.77" default-y="-140.00">
         <pitch>
           <step>B</step>
           <octave>3</octave>
@@ -14250,7 +14254,7 @@
         </note>
       </measure>
     <measure number="140" width="121.42">
-      <note default-x="21.03" default-y="-265.00">
+      <note default-x="21.02" default-y="-265.00">
         <pitch>
           <step>C</step>
           <octave>3</octave>
